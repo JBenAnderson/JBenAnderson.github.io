@@ -5824,7 +5824,7 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #d1e8e2;
+
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
@@ -6546,17 +6546,6 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background: linear-gradient(
-    180deg,
-    rgba(44, 53, 49, 1) 50%,
-    rgba(202, 250, 254, 1) 0%
-  );
-
-  box-shadow: outset 2px 1px 40px 20px #3feee582;
-  box-shadow: inset 2px 1px 40px 20px #3feee582;
-  outline-style: solid;
-  outline-color: black;
-  outline-width: 2.5px;
 }
 
 a.bg-light:hover,
@@ -10424,8 +10413,6 @@ p {
 
 .page-section {
   padding: 6rem 0;
-
-  box-shadow: 2px 1px 40px 20px #3feee582;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10725,6 +10712,7 @@ header.masthead .masthead-heading {
   height: 3rem;
   cursor: pointer;
   background-color: transparent;
+  color: #fc4445;
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
@@ -10923,7 +10911,6 @@ section#contact {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  box-shadow: 2px 1px 40px 20px #3feee582;
 }
 section#contact .section-heading {
   color: #fff;
