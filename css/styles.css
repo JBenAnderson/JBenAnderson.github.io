@@ -11003,11 +11003,14 @@ section#contact form#contactForm :-ms-input-placeholder {
 #portfolioProjectContainer {
   backdrop-filter: blur(4px);
   background-color: rgba(79, 164, 171, 0.3);
-  border-radius: 50%;
+  width: 800px;
+  height: 800px;
+  box-shadow: 2px 1px 40px 20px #3feee53c;
+  border-radius: 25px;
 }
 
 #portfolioImage {
   border-width: 1px;
-  box-shadow: 2px 1px 40px 20px #3feee58a;
-  border-color: solid #0c5460;
+  box-shadow: 2px 1px 40px 20px #3feee5bf;
+  border-color: #0c5460;
 }
