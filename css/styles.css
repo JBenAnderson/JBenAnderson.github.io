@@ -11017,6 +11017,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #gitImage {
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
+  box-shadow: 2px 1px 40px 20px white;
+  border: solid white;
+  border-width: 1px;
+  border-radius: 50%;
 }
