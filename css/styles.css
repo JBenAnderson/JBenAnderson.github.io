@@ -11001,10 +11001,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #portfolioProjectContainer {
-  backdrop-filter: blur(4px);
-  background-color: rgba(79, 164, 171, 0.3);
-  width: 800px;
-  height: 800px;
+  backdrop-filter: blur(5px);
+  position: center;
+
+  background-color: rgba(79, 163, 171, 0.488);
+
   box-shadow: 2px 1px 40px 20px #3feee53c;
   border-radius: 25px;
 }
@@ -11013,4 +11014,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-width: 1px;
   box-shadow: 2px 1px 40px 20px #3feee5bf;
   border-color: #0c5460;
+}
+
+#gitImage {
+  width: 100px;
+  height: 100px;
 }
