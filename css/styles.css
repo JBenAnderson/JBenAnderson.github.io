@@ -11012,14 +11012,14 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 #portfolioImage {
   border-width: 1px;
-  box-shadow: 2px 1px 40px 20px #3feee5bf;
+  box-shadow: 2px 1px 40px 15px #3feee5bf;
   border-color: #0c5460;
 }
 
 #gitImage {
   width: 80px;
   height: 80px;
-  box-shadow: 2px 1px 40px 20px white;
+  box-shadow: 2px 1px 40px 15px white;
   border: solid white;
   border-width: 1px;
   border-radius: 50%;
