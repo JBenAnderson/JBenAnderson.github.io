@@ -11014,6 +11014,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-width: 1px;
   box-shadow: 2px 1px 40px 15px #3feee5bf;
   border-color: #0c5460;
+  width: 450px;
+  height: 300px;
 }
 
 #gitImage {
