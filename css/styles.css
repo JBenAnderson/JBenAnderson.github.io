@@ -11026,3 +11026,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-width: 1px;
   border-radius: 50%;
 }
+
+#nameNavBar {
+  size: 2px;
+}
