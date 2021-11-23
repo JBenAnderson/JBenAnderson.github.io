@@ -10427,6 +10427,8 @@ p {
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   margin-bottom: 4rem;
+  text-shadow: -1px -1px 0 rgb(79, 98, 100), 1px -1px 0 rgb(59, 79, 94),
+    -1px 1px 0 rgb(0, 247, 255), -1px 1px 0 rgb(0, 0, 0);
 }
 
 @media (min-width: 768px) {
