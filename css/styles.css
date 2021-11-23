@@ -87,8 +87,8 @@ body {
   background: linear-gradient(
     180deg,
     rgba(44, 53, 49, 1) 0%,
-    rgba(202, 250, 254, 1) 50%,
-    rgba(44, 53, 49, 1) 100%
+    rgb(132, 173, 177) 50%,
+    rgb(33, 40, 36) 100%
   );
 }
 
@@ -11031,4 +11031,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 #nameNavBar {
   size: 2px;
+}
+
+.mernlogo {
+  text-align: center;
+  padding-bottom: 50px;
+  background-size: 50%;
 }
