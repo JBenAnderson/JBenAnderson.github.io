@@ -21,7 +21,7 @@ Additional features to be done:
 
 Notes
 ----------------------------------------
-This is my page showcasing my developing skills through 3 highlighted applications.  A real time bus tracker.  A full-stack restaurant menu ordering app.  And lastly a front-end UI and logic for a bank.  
+This is my page showcasing my developing and design skills showcasing projects I've worked on.   
 Thank you so much for taking the time to view my work!
 
 
